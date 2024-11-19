@@ -1,1 +1,1 @@
-Problem set 1, 2, and 3 were all used for this final project. 1 tokenized all of the files, 2 creates a context matrix, 3 creates an inverted index, and the final project brings everything together and includes BERT for question answering on the documents retrieved from the operations in problem set 3.
+# BERT-powered open domain question answering on a large corpus of files
