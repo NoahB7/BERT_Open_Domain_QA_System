@@ -1,1 +1,1 @@
-# BERT_Open_Domain_QA_System
+# BERT-powered open domain question answering on a large corpus of files
